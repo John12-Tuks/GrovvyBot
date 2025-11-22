@@ -1,0 +1,27 @@
+# Visual Studio user-specific files
+*.user
+*.userosscache
+*.suo
+*.cache
+*.csproj.user
+*.vsidx
+*.dbmdl
+
+# VS Workspace state
+.vs/
+.vscode/
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+
+# Temp files
+*.tmp
+*.temp
+*.log
+
+# Visual Studio Design Time builds
+.vsconfig
+
