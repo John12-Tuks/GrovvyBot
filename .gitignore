@@ -25,3 +25,5 @@ Release/
 # Visual Studio Design Time builds
 .vsconfig
 
+# secrets
+.env
