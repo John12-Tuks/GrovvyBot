@@ -27,3 +27,4 @@ Release/
 
 # secrets
 .env
+config.json
